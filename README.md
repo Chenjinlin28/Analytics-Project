@@ -13,6 +13,7 @@ This is the README file to the Analytics Project.
 - Distilbert: 2 models
 - Setfit: 6 mofels
 - Neural Network: 1 model
+
 Do not forget to:
    - Install streamlit (https://docs.streamlit.io/get-started/installation)
    - Clone the repository (git clone https://github.com/Chenjinlin28/Analytics-Project.git) OR download it via https://drive.google.com/drive/folders/1X1-MAklKmDKqpv0g7XFada9KCId6hz-z?usp=share_link .
