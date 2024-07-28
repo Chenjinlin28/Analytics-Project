@@ -6,8 +6,14 @@ This is the README file to the Analytics Project.
    - Clone the repository (git clone https://github.com/Chenjinlin28/Analytics-Project.git)
    - Navigate to streamlit-app directory (cd .\Analytics-Project\)
    - Execute streamlit-app (streamlit run app.py)
+
+## 2. Models
+   To try any past version/model of our Entity CLassification Project, please refer to https://github.com/Chenjinlin28/Analytics-Project/tree/87ae372bd4b7bcf5400b444f9481f0f149ccf3d7/Database%20Part . In there, you can find individual folders with one or more versions of each model, simply download the model you would like to see and run it.  
+- Distilbert: 2 models
+- Setfit: 6 mofels
+- Neural Network: 1 model
   
-## 2. Project
+## 3. Project
    Our Entity Classification Project aims to create a model of text classification that is able to categorize and identify entities (words) inside scientific articles, whilst understanding the context in which they are being used. Our project aims to improve text-data classification.
 
 
